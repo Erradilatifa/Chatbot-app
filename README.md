@@ -11,7 +11,8 @@ Interface utilisateur simple et réactive
 Envoi et affichage des messages utilisateur/assistant
 
 Requêtes HTTP vers l’API OpenAI pour générer les réponses
----
+
+------------------
 
 ## 🛠 Technologies :
 Flutter (framework multiplateforme)
@@ -45,3 +46,22 @@ OpenAI GPT-4o
 
 
 ## Screenshots
+
+### ✅ Login Page
+
+![page1](https://github.com/user-attachments/assets/c5871d3f-135c-4edf-ae5b-ec165a3c106c)
+
+### ✅Forgot Password
+
+![pageee3](https://github.com/user-attachments/assets/fbf9ec80-3629-4904-a436-26e01c6d6e59)
+
+### 🤖 Virtual Assistant
+
+![page22png](https://github.com/user-attachments/assets/995c5c8e-ba8e-4672-9144-c01fbc95b420)
+
+
+![page4](https://github.com/user-attachments/assets/3a00f071-e8ee-415a-a2c2-34582b0eb2fd)
+
+
+
+
